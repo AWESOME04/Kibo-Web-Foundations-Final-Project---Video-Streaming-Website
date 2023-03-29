@@ -41,5 +41,6 @@ We welcome contributions to our video streaming platform! To contribute, please 
     Submit a pull request to this repository.
     
  EXTRA (MOCK WEBSITES)
+ 
  https://project-3-content-gallery-evansacheampong.tk8-web-foundations.repl.co
  https://add-cool-link-previews-evansacheampong.tk8-web-foundations.repl.co
