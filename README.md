@@ -1,4 +1,4 @@
-# Kibo_Web_Foundations_Final_Project-Video-Streaming-Website
+# Kibo Web Foundations Final Project
 The repo containsa a simple website / video streaming platform with a focus on various types of videos, such as funny, mind-blowing, and dance videos.
 
 ![videostube](https://user-images.githubusercontent.com/102630199/226752628-cf2b1721-2350-4686-8392-b3d58fb2da67.jpg)
